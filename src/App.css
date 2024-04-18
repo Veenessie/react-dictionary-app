@@ -1,6 +1,16 @@
+body {
+  background: #f6e7e6;
+  font-family: "Poppins", sans-serif;
+}
+
 .App .container {
   margin: 20px;
 }
+
+.App h1 {
+  text-align: center;
+}
+
 .App a {
   color: #878ecd;
   text-decoration: none;
@@ -9,4 +19,5 @@
 .App footer {
   font-size: 10px;
   margin: 30px;
+  text-align: center;
 }

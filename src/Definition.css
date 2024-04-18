@@ -1,0 +1,15 @@
+.Definition h2 {
+  font-size: 35px;
+  margin: 0;
+}
+
+.Definition .phonetic {
+  margin-top: 10px;
+  font-size: 25px;
+  opacity: 0.6;
+}
+
+.Definition h4 {
+  font-size: 22px;
+  margin: 0;
+}
