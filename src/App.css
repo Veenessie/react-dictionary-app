@@ -1,7 +1,6 @@
-.App {
-  text-align: center;
+.App .container {
+  margin: 20px;
 }
-
 .App a {
   color: #878ecd;
   text-decoration: none;
