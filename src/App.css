@@ -1,14 +1,15 @@
 body {
   background: #f6e7e6;
   font-family: "Poppins", sans-serif;
-}
-
-.App .container {
-  margin: 20px;
+  margin: 0 auto;
+  max-width: 900px;
 }
 
 .App h1 {
   text-align: center;
+  margin-top: 30px;
+  font-size: 40px;
+  font-weight: bold;
 }
 
 .App a {

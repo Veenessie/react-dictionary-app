@@ -1,6 +1,7 @@
 .Definition h2 {
   font-size: 35px;
   margin: 0;
+  font-weight: bold;
 }
 
 .Definition .phonetic {
@@ -12,4 +13,5 @@
 .Definition h4 {
   font-size: 22px;
   margin: 0;
+  font-weight: bold;
 }
